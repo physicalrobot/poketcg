@@ -59,43 +59,43 @@ OverworldMapPal::
 
 	rgb 31, 29, 24
 	rgb 26, 24, 27
-	rgb  17, 15, 24
-	rgb  10,  8, 25
+	rgb 17, 15, 24
+	rgb 10,  8, 25
 
 	rgb 31, 29, 24
-	rgb  18, 28, 28
-	rgb   6, 20, 28
-	rgb  10,  8, 25
+	rgb 18, 28, 28
+	rgb  6, 20, 28
+	rgb 10,  8, 25
 
 	rgb 31, 29, 24
-	rgb  18, 28, 28
-	rgb   9, 22, 22
-	rgb  10,  8, 25
+	rgb 18, 28, 28
+	rgb  9, 22, 22
+	rgb 10,  8, 25
 
 	rgb 31, 29, 24
 	rgb 26, 21, 21
 	rgb 17, 12, 21
-	rgb  10,  8, 25
+	rgb 10,  8, 25
 
 	rgb 31, 29, 24
-	rgb  18, 28, 28
+	rgb 18, 28, 28
 	rgb 30, 11, 22
-	rgb  10,  8, 25
+	rgb 10,  8, 25
 
 	rgb 31, 29, 24
-	rgb  18, 28, 28
+	rgb 18, 28, 28
 	rgb 26, 21, 21
-	rgb  10,  8, 25
+	rgb 10,  8, 25
 
 	rgb 31, 29, 24
 	rgb 31, 27, 18
 	rgb 26, 21, 21
-	rgb  10,  8, 25
+	rgb 10,  8, 25
 
 	rgb 31, 29, 24
 	rgb 26, 21, 21
-	rgb   6, 20, 28
-	rgb  10,  8, 25
+	rgb  6, 20, 28
+	rgb 10,  8, 25
 
 MasonLaboratoryPal::
 	db 0
@@ -103,43 +103,43 @@ MasonLaboratoryPal::
 
 	rgb 31, 29, 24
 	rgb 26, 24, 27
-	rgb  17, 15, 24
-	rgb  10,  8, 25
+	rgb 17, 15, 24
+	rgb 10,  8, 25
 
 	rgb 24, 30, 31
-	rgb  15, 25, 31
+	rgb 15, 25, 31
 	rgb 21, 15, 21
-	rgb  17, 12, 21
+	rgb 17, 12, 21
 
 	rgb 31, 29, 24
 	rgb 31, 27, 18
-	rgb  17, 12, 21
-	rgb  10,  8, 25
+	rgb 17, 12, 21
+	rgb 10,  8, 25
 
 	rgb 31, 27, 18
 	rgb 21, 15, 21
 	rgb 18, 12, 18
-	rgb  10,  8, 25
+	rgb 10,  8, 25
 
 	rgb 31, 29, 24
-	rgb   9, 22, 22
-	rgb  17, 12, 21
-	rgb  10,  8, 25
+	rgb  9, 22, 22
+	rgb 17, 12, 21
+	rgb 10,  8, 25
 
 	rgb 24, 30, 31
-	rgb  15, 25, 31
-	rgb   6, 20, 28
-	rgb  10,  8, 25
+	rgb 15, 25, 31
+	rgb  6, 20, 28
+	rgb 10,  8, 25
 
 	rgb 24, 30, 31
-	rgb  15, 25, 31
+	rgb 15, 25, 31
 	rgb 20, 15, 29
-	rgb  10,  8, 25
+	rgb 10,  8, 25
 
 	rgb 24, 30, 31
-	rgb  15, 25, 31
-	rgb   9, 22, 22
-	rgb  13, 16, 28
+	rgb 15, 25, 31
+	rgb  9, 22, 22
+	rgb 13, 16, 28
 
 IshiharasHousePal::
 	db 0
@@ -147,32 +147,32 @@ IshiharasHousePal::
 
 	rgb 31, 29, 24
 	rgb 26, 24, 27
-	rgb  17, 15, 24
-	rgb  10,  8, 25
+	rgb 17, 15, 24
+	rgb 10,  8, 25
 
 	rgb 31, 29, 22
 	rgb 31, 25, 17
-	rgb  22,  8, 19
-	rgb  10,  8, 25
+	rgb 22,  8, 19
+	rgb 10,  8, 25
 
 	rgb 31, 27, 18
 	rgb 26, 21, 21
-	rgb   9, 22, 22
-	rgb  13, 16, 28
+	rgb  9, 22, 22
+	rgb 13, 16, 28
 
 	rgb 31, 29, 24
 	rgb 31, 28, 22
 	rgb 26, 21, 21
-	rgb  10,  8, 25
+	rgb 10,  8, 25
 
 	rgb 31, 27, 18
 	rgb 26, 21, 21
 	rgb 21, 15, 21
-	rgb  17, 12, 21
+	rgb 17, 12, 21
 
 	rgb 31, 29, 24
-	rgb   6, 20, 28
-	rgb   3, 17, 25
+	rgb  6, 20, 28
+	rgb  3, 17, 25
 	rgb 31, 27, 18
 
 	rgb  0,  0,  0
@@ -191,43 +191,43 @@ FightingClubEntrancePal::
 
 	rgb 31, 29, 24
 	rgb 26, 24, 27
-	rgb  17, 15, 24
-	rgb  10,  8, 25
+	rgb 17, 15, 24
+	rgb 10,  8, 25
 
 	rgb 31, 29, 24
 	rgb 31, 27, 18
 	rgb 17, 12, 21
-	rgb  10,  8, 25
+	rgb 10,  8, 25
 
 	rgb 24, 30, 28
-	rgb  18, 28, 28
-	rgb   9, 22, 22
-	rgb  10,  8, 25
+	rgb 18, 28, 28
+	rgb  9, 22, 22
+	rgb 10,  8, 25
 
 	rgb 31, 29, 22
 	rgb 30, 15, 18
 	rgb 17, 12, 21
-	rgb  10,  8, 25
+	rgb 10,  8, 25
 
 	rgb 31, 27, 18
-	rgb  18, 28, 28
+	rgb 18, 28, 28
 	rgb 30, 11, 22
 	rgb 22,  8, 19
 
 	rgb 24, 30, 28
-	rgb  18, 28, 28
+	rgb 18, 28, 28
 	rgb 30, 11, 22
 	rgb 22,  8, 19
 
 	rgb 24, 30, 28
-	rgb  18, 28, 28
-	rgb   9, 22, 22
-	rgb  13, 16, 28
+	rgb 18, 28, 28
+	rgb  9, 22, 22
+	rgb 13, 16, 28
 
 	rgb 24, 30, 28
-	rgb  18, 28, 28
+	rgb 18, 28, 28
 	rgb 21, 15, 21
-	rgb  17, 12, 21
+	rgb 17, 12, 21
 
 RockClubEntrancePal::
 	db 0
@@ -235,43 +235,43 @@ RockClubEntrancePal::
 
 	rgb 31, 29, 24
 	rgb 26, 24, 27
-	rgb  17, 15, 24
-	rgb  10,  8, 25
+	rgb 17, 15, 24
+	rgb 10,  8, 25
 
 	rgb 31, 29, 24
 	rgb 31, 27, 18
 	rgb 17, 12, 21
-	rgb  10,  8, 25
+	rgb 10,  8, 25
 
 	rgb 24, 30, 28
-	rgb  18, 28, 28
-	rgb   9, 22, 22
-	rgb  10,  8, 25
+	rgb 18, 28, 28
+	rgb  9, 22, 22
+	rgb 10,  8, 25
 
 	rgb 26, 24, 27
 	rgb 26, 21, 21
 	rgb 21, 15, 21
-	rgb  10,  8, 25
+	rgb 10,  8, 25
 
 	rgb 31, 27, 18
-	rgb  18, 28, 28
+	rgb 18, 28, 28
 	rgb 30, 11, 22
 	rgb 22,  8, 19
 
 	rgb 24, 30, 28
-	rgb  18, 28, 28
+	rgb 18, 28, 28
 	rgb 30, 11, 22
 	rgb 22,  8, 19
 
 	rgb 24, 30, 28
-	rgb  18, 28, 28
-	rgb   9, 22, 22
-	rgb  13, 16, 28
+	rgb 18, 28, 28
+	rgb  9, 22, 22
+	rgb 13, 16, 28
 
 	rgb 31, 29, 24
-	rgb  18, 28, 28
+	rgb 18, 28, 28
 	rgb 21, 15, 21
-	rgb  17, 12, 21
+	rgb 17, 12, 21
 
 WaterClubEntrancePal::
 	db 0
@@ -279,43 +279,43 @@ WaterClubEntrancePal::
 
 	rgb 31, 29, 24
 	rgb 26, 24, 27
-	rgb  17, 15, 24
-	rgb  10,  8, 25
+	rgb 17, 15, 24
+	rgb 10,  8, 25
 
 	rgb 31, 29, 24
 	rgb 31, 27, 18
 	rgb 17, 12, 21
-	rgb  10,  8, 25
+	rgb 10,  8, 25
 
 	rgb 24, 30, 28
-	rgb  18, 28, 28
-	rgb   9, 22, 22
-	rgb  10,  8, 25
+	rgb 18, 28, 28
+	rgb  9, 22, 22
+	rgb 10,  8, 25
 
 	rgb 31, 29, 24
-	rgb  15, 25, 31
-	rgb   6, 20, 28
-	rgb  10,  8, 25
+	rgb 15, 25, 31
+	rgb  6, 20, 28
+	rgb 10,  8, 25
 
 	rgb 31, 27, 18
-	rgb  18, 28, 28
+	rgb 18, 28, 28
 	rgb 30, 11, 22
 	rgb 22,  8, 19
 
 	rgb 24, 30, 28
-	rgb  18, 28, 28
+	rgb 18, 28, 28
 	rgb 30, 11, 22
 	rgb 22,  8, 19
 
 	rgb 24, 30, 28
-	rgb  18, 28, 28
-	rgb   9, 22, 22
-	rgb  13, 16, 28
+	rgb 18, 28, 28
+	rgb  9, 22, 22
+	rgb 13, 16, 28
 
 	rgb 24, 30, 28
-	rgb  18, 28, 28
+	rgb 18, 28, 28
 	rgb 21, 15, 21
-	rgb  17, 12, 21
+	rgb 17, 12, 21
 
 LightningClubEntrancePal::
 	db 0
@@ -323,43 +323,43 @@ LightningClubEntrancePal::
 
 	rgb 31, 29, 24
 	rgb 26, 24, 27
-	rgb  17, 15, 24
-	rgb  10,  8, 25
+	rgb 17, 15, 24
+	rgb 10,  8, 25
 
 	rgb 31, 29, 24
 	rgb 31, 27, 18
 	rgb 17, 12, 21
-	rgb  10,  8, 25
+	rgb 10,  8, 25
 
 	rgb 24, 30, 28
-	rgb  18, 28, 28
-	rgb   9, 22, 22
-	rgb  10,  8, 25
+	rgb 18, 28, 28
+	rgb  9, 22, 22
+	rgb 10,  8, 25
 
 	rgb 31, 29, 24
 	rgb 31, 27, 18
 	rgb 31, 25, 17
-	rgb  17, 12, 21
+	rgb 17, 12, 21
 
 	rgb 31, 27, 18
-	rgb  18, 28, 28
+	rgb 18, 28, 28
 	rgb 30, 11, 22
 	rgb 22,  8, 19
 
 	rgb 24, 30, 28
-	rgb  18, 28, 28
+	rgb 18, 28, 28
 	rgb 30, 11, 22
 	rgb 22,  8, 19
 
 	rgb 24, 30, 28
-	rgb  18, 28, 28
-	rgb   9, 22, 22
-	rgb  13, 16, 28
+	rgb 18, 28, 28
+	rgb  9, 22, 22
+	rgb 13, 16, 28
 
 	rgb 24, 30, 28
-	rgb  18, 28, 28
+	rgb 18, 28, 28
 	rgb 21, 15, 21
-	rgb  17, 12, 21
+	rgb 17, 12, 21
 
 GrassClubEntrancePal::
 	db 0
@@ -367,43 +367,43 @@ GrassClubEntrancePal::
 
 	rgb 31, 29, 24
 	rgb 26, 24, 27
-	rgb  17, 15, 24
-	rgb  10,  8, 25
+	rgb 17, 15, 24
+	rgb 10,  8, 25
 
 	rgb 31, 29, 24
 	rgb 31, 27, 18
 	rgb 17, 12, 21
-	rgb  10,  8, 25
+	rgb 10,  8, 25
 
 	rgb 24, 30, 28
-	rgb  18, 28, 28
-	rgb   9, 22, 22
-	rgb  10,  8, 25
+	rgb 18, 28, 28
+	rgb  9, 22, 22
+	rgb 10,  8, 25
 
 	rgb 31, 29, 24
 	rgb 18, 28, 28
-	rgb   9, 22, 22
-	rgb  10,  8, 25
+	rgb  9, 22, 22
+	rgb 10,  8, 25
 
 	rgb 31, 27, 18
-	rgb  18, 28, 28
+	rgb 18, 28, 28
 	rgb 30, 11, 22
 	rgb 22,  8, 19
 
 	rgb 24, 30, 28
-	rgb  18, 28, 28
+	rgb 18, 28, 28
 	rgb 30, 11, 22
 	rgb 22,  8, 19
 
 	rgb 24, 30, 28
-	rgb  18, 28, 28
-	rgb   9, 22, 22
-	rgb  13, 16, 28
+	rgb 18, 28, 28
+	rgb  9, 22, 22
+	rgb 13, 16, 28
 
 	rgb 24, 30, 28
-	rgb  18, 28, 28
+	rgb 18, 28, 28
 	rgb 21, 15, 21
-	rgb  17, 12, 21
+	rgb 17, 12, 21
 
 PsychicClubEntrancePal::
 	db 0
@@ -411,43 +411,43 @@ PsychicClubEntrancePal::
 
 	rgb 31, 29, 24
 	rgb 26, 24, 27
-	rgb  17, 15, 24
-	rgb  10,  8, 25
+	rgb 17, 15, 24
+	rgb 10,  8, 25
 
 	rgb 31, 29, 24
 	rgb 31, 27, 18
 	rgb 17, 12, 21
-	rgb  10,  8, 25
+	rgb 10,  8, 25
 
 	rgb 24, 30, 28
-	rgb  18, 28, 28
-	rgb   9, 22, 22
-	rgb  10,  8, 25
+	rgb 18, 28, 28
+	rgb  9, 22, 22
+	rgb 10,  8, 25
 
 	rgb 31, 29, 24
 	rgb 20, 15, 29
 	rgb 17, 12, 26
-	rgb  10,  8, 25
+	rgb 10,  8, 25
 
 	rgb 31, 27, 18
-	rgb  18, 28, 28
+	rgb 18, 28, 28
 	rgb 30, 11, 22
 	rgb 22,  8, 19
 
 	rgb 24, 30, 28
-	rgb  18, 28, 28
+	rgb 18, 28, 28
 	rgb 30, 11, 22
 	rgb 22,  8, 19
 
 	rgb 24, 30, 28
-	rgb  18, 28, 28
-	rgb   9, 22, 22
-	rgb  13, 16, 28
+	rgb 18, 28, 28
+	rgb  9, 22, 22
+	rgb 13, 16, 28
 
 	rgb 24, 30, 28
-	rgb  18, 28, 28
+	rgb 18, 28, 28
 	rgb 21, 15, 21
-	rgb  17, 12, 21
+	rgb 17, 12, 21
 
 ScienceClubEntrancePal::
 	db 0
@@ -455,43 +455,43 @@ ScienceClubEntrancePal::
 
 	rgb 31, 29, 24
 	rgb 26, 24, 27
-	rgb  17, 15, 24
-	rgb  10,  8, 25
+	rgb 17, 15, 24
+	rgb 10,  8, 25
 
 	rgb 31, 29, 24
 	rgb 31, 27, 18
 	rgb 17, 12, 21
-	rgb  10,  8, 25
+	rgb 10,  8, 25
 
 	rgb 24, 30, 28
-	rgb  18, 28, 28
-	rgb   9, 22, 22
-	rgb  10,  8, 25
+	rgb 18, 28, 28
+	rgb  9, 22, 22
+	rgb 10,  8, 25
 
 	rgb 31, 29, 24
-	rgb  18, 28, 28
-	rgb   9, 22, 22
-	rgb  13, 16, 28
+	rgb 18, 28, 28
+	rgb  9, 22, 22
+	rgb 13, 16, 28
 
 	rgb 31, 27, 18
-	rgb  18, 28, 28
+	rgb 18, 28, 28
 	rgb 30, 11, 22
 	rgb 22,  8, 19
 
 	rgb 24, 30, 28
-	rgb  18, 28, 28
+	rgb 18, 28, 28
 	rgb 30, 11, 22
 	rgb 22,  8, 19
 
 	rgb 24, 30, 28
-	rgb  18, 28, 28
-	rgb   9, 22, 22
-	rgb  13, 16, 28
+	rgb 18, 28, 28
+	rgb  9, 22, 22
+	rgb 13, 16, 28
 
 	rgb 24, 30, 28
-	rgb  18, 28, 28
+	rgb 18, 28, 28
 	rgb 21, 15, 21
-	rgb  17, 12, 21
+	rgb 17, 12, 21
 
 FireClubEntrancePal::
 	db 0
@@ -499,43 +499,43 @@ FireClubEntrancePal::
 
 	rgb 31, 29, 24
 	rgb 26, 24, 27
-	rgb  17, 15, 24
-	rgb  10,  8, 25
+	rgb 17, 15, 24
+	rgb 10,  8, 25
 
 	rgb 31, 29, 24
 	rgb 31, 27, 18
 	rgb 17, 12, 21
-	rgb  10,  8, 25
+	rgb 10,  8, 25
 
 	rgb 24, 30, 28
-	rgb  18, 28, 28
-	rgb   9, 22, 22
-	rgb  10,  8, 25
+	rgb 18, 28, 28
+	rgb  9, 22, 22
+	rgb 10,  8, 25
 
 	rgb 31, 29, 24
 	rgb 31, 25, 17
 	rgb 30, 11, 22
-	rgb  22,  8, 19
+	rgb 22,  8, 19
 
 	rgb 31, 27, 18
-	rgb  18, 28, 28
+	rgb 18, 28, 28
 	rgb 30, 11, 22
 	rgb 22,  8, 19
 
 	rgb 24, 30, 28
-	rgb  18, 28, 28
+	rgb 18, 28, 28
 	rgb 30, 11, 22
 	rgb 22,  8, 19
 
 	rgb 24, 30, 28
-	rgb  18, 28, 28
-	rgb   9, 22, 22
-	rgb  13, 16, 28
+	rgb 18, 28, 28
+	rgb  9, 22, 22
+	rgb 13, 16, 28
 
 	rgb 24, 30, 28
-	rgb  18, 28, 28
+	rgb 18, 28, 28
 	rgb 21, 15, 21
-	rgb  17, 12, 21
+	rgb 17, 12, 21
 
 ClubLobbyPal::
 	db 0
@@ -543,43 +543,43 @@ ClubLobbyPal::
 
 	rgb 31, 29, 24
 	rgb 26, 24, 27
-	rgb  17, 15, 24
-	rgb  10,  8, 25
+	rgb 17, 15, 24
+	rgb 10,  8, 25
 
 	rgb 31, 29, 24
 	rgb 31, 27, 18
 	rgb 17, 12, 21
-	rgb  10,  8, 25
+	rgb 10,  8, 25
 
 	rgb 24, 30, 28
-	rgb  18, 28, 28
-	rgb   9, 22, 22
-	rgb  13, 16, 28
+	rgb 18, 28, 28
+	rgb  9, 22, 22
+	rgb 13, 16, 28
 
 	rgb 31, 29, 24
 	rgb 30, 15, 18
 	rgb 17, 12, 21
-	rgb  10,  8, 25
+	rgb 10,  8, 25
 
 	rgb 24, 30, 28
-	rgb  18, 28, 28
+	rgb 18, 28, 28
 	rgb 30, 11, 22
 	rgb 22,  8, 19
 
 	rgb 31, 29, 24
-	rgb  15, 25, 31
-	rgb   6, 20, 28
-	rgb  10,  8, 25
+	rgb 15, 25, 31
+	rgb  6, 20, 28
+	rgb 10,  8, 25
 
 	rgb 31, 29, 24
 	rgb 31, 27, 18
 	rgb 30, 15, 18
-	rgb  17, 12, 21
+	rgb 17, 12, 21
 
 	rgb 24, 30, 28
-	rgb   9, 22, 22
+	rgb  9, 22, 22
 	rgb 30, 15, 18
-	rgb  10,  8, 25
+	rgb 10,  8, 25
 
 FightingClubPal::
 	db 0
@@ -587,23 +587,23 @@ FightingClubPal::
 
 	rgb 31, 29, 24
 	rgb 26, 24, 27
-	rgb  17, 15, 24
-	rgb  10,  8, 25
+	rgb 17, 15, 24
+	rgb 10,  8, 25
 
 	rgb 31, 29, 24
 	rgb 31, 27, 18
 	rgb 17, 12, 21
-	rgb  10,  8, 25
+	rgb 10,  8, 25
 
 	rgb 31, 29, 24
 	rgb 22, 20, 26
-	rgb  12, 12, 26
-	rgb  10,  8, 25
+	rgb 12, 12, 26
+	rgb 10,  8, 25
 
 	rgb 24, 30, 28
-	rgb  18, 28, 28
-	rgb   9, 22, 22
-	rgb  10,  8, 25
+	rgb 18, 28, 28
+	rgb  9, 22, 22
+	rgb 10,  8, 25
 
 	rgb 31, 29, 24
 	rgb 31, 27, 18
@@ -611,19 +611,19 @@ FightingClubPal::
 	rgb 17, 12, 21
 
 	rgb 24, 30, 28
-	rgb  18, 28, 28
+	rgb 18, 28, 28
 	rgb 22, 20, 26
-	rgb  10,  8, 25
+	rgb 10,  8, 25
 
 	rgb 24, 30, 28
-	rgb  18, 28, 28
-	rgb  17, 15, 24
+	rgb 18, 28, 28
+	rgb 17, 15, 24
 	rgb 30, 11, 22
 
 	rgb 31, 29, 24
 	rgb 22, 20, 26
-	rgb  15, 25, 31
-	rgb  10,  8, 25
+	rgb 15, 25, 31
+	rgb 10,  8, 25
 
 RockClubPal::
 	db 0
@@ -631,25 +631,25 @@ RockClubPal::
 
 	rgb 31, 29, 24
 	rgb 26, 24, 27
-	rgb  17, 15, 24
-	rgb  10,  8, 25
+	rgb 17, 15, 24
+	rgb 10,  8, 25
 
 	rgb 31, 29, 24
 	rgb 31, 25, 17
 	rgb  6, 20, 28
-	rgb  10,  8, 25
+	rgb 10,  8, 25
 
 	rgb 31, 29, 24
 	rgb 15, 25, 31
-	rgb   6, 20, 28
+	rgb  6, 20, 28
 	rgb 31, 27, 18
 
 	rgb 31, 29, 24
 	rgb 31, 25, 17
 	rgb 17, 12, 21
-	rgb  10,  8, 25
+	rgb 10,  8, 25
 
-	rgb  10,  8, 25
+	rgb 10,  8, 25
 	rgb 30, 11, 22
 	rgb 30, 15, 18
 	rgb 31, 27, 18
@@ -662,9 +662,9 @@ RockClubPal::
 	rgb 31, 29, 24
 	rgb 31, 27, 18
 	rgb 21, 15, 21
-	rgb  10,  8, 25
+	rgb 10,  8, 25
 
-	rgb  10,  8, 25
+	rgb 10,  8, 25
 	rgb 30, 11, 22
 	rgb 30, 15, 18
 	rgb 31, 27, 18
@@ -675,43 +675,43 @@ WaterClubPal::
 
 	rgb 31, 29, 24
 	rgb 26, 24, 27
-	rgb  17, 15, 24
-	rgb  10,  8, 25
+	rgb 17, 15, 24
+	rgb 10,  8, 25
 
 	rgb 31, 29, 24
-	rgb   6, 20, 28
-	rgb   3, 17, 25
-	rgb  12, 12, 26
+	rgb  6, 20, 28
+	rgb  3, 17, 25
+	rgb 12, 12, 26
 
 	rgb 31, 29, 22
 	rgb 31, 25, 17
 	rgb 31, 29, 24
-	rgb  12, 12, 26
+	rgb 12, 12, 26
 
 	rgb 31, 29, 22
 	rgb 31, 25, 17
 	rgb 30, 11, 22
-	rgb  12, 12, 26
+	rgb 12, 12, 26
 
 	rgb 31, 29, 24
-	rgb   6, 20, 28
+	rgb  6, 20, 28
 	rgb 30, 11, 22
 	rgb 22,  8, 19
 
 	rgb 31, 29, 22
 	rgb 31, 25, 17
-	rgb  18, 28, 28
-	rgb  10,  8, 25
+	rgb 18, 28, 28
+	rgb 10,  8, 25
 
 	rgb 31, 29, 22
 	rgb 31, 25, 17
 	rgb 21, 15, 21
-	rgb  17, 12, 21
+	rgb 17, 12, 21
 
 	rgb 31, 29, 24
-	rgb  18, 28, 28
-	rgb   9, 22, 22
-	rgb  13, 16, 28
+	rgb 18, 28, 28
+	rgb  9, 22, 22
+	rgb 13, 16, 28
 
 LightningClubPal::
 	db 0
@@ -719,38 +719,38 @@ LightningClubPal::
 
 	rgb 31, 29, 24
 	rgb 26, 24, 27
-	rgb  17, 15, 24
-	rgb  10,  8, 25
+	rgb 17, 15, 24
+	rgb 10,  8, 25
 
 	rgb 31, 29, 22
 	rgb 31, 27, 18
 	rgb 17, 12, 21
-	rgb  10,  8, 25
+	rgb 10,  8, 25
 
 	rgb 29, 27, 29
-	rgb   6, 20, 28
-	rgb   3, 17, 25
-	rgb  10,  8, 25
+	rgb  6, 20, 28
+	rgb  3, 17, 25
+	rgb 10,  8, 25
 
 	rgb 31, 29, 24
 	rgb 31, 25, 17
 	rgb 30, 11, 22
-	rgb  12, 12, 26
+	rgb 12, 12, 26
 
 	rgb 29, 27, 29
 	rgb 13, 10, 24
-	rgb   6, 20, 28
-	rgb  10,  8, 25
+	rgb  6, 20, 28
+	rgb 10,  8, 25
 
 	rgb 29, 27, 29
 	rgb 13, 10, 24
-	rgb   6, 20, 28
-	rgb   3, 17, 25
+	rgb  6, 20, 28
+	rgb  3, 17, 25
 
 	rgb 31, 29, 24
 	rgb 31, 25, 17
 	rgb 13, 10, 24
-	rgb  12, 12, 26
+	rgb 12, 12, 26
 
 	rgb  0,  0,  0
 	rgb 28,  0,  0
@@ -763,36 +763,36 @@ GrassClubPal::
 
 	rgb 31, 29, 24
 	rgb 26, 24, 27
-	rgb  17, 15, 24
-	rgb  10,  8, 25
+	rgb 17, 15, 24
+	rgb 10,  8, 25
 
 	rgb 31, 27, 18
-	rgb  18, 28, 28
-	rgb  13, 16, 28
+	rgb 18, 28, 28
+	rgb 13, 16, 28
 	rgb 22,  8, 19
 
 	rgb 31, 29, 24
-	rgb  18, 28, 28
-	rgb  13, 16, 28
+	rgb 18, 28, 28
+	rgb 13, 16, 28
 	rgb 26, 24, 27
 
 	rgb 31, 27, 18
-	rgb  18, 28, 28
-	rgb  13, 16, 28
+	rgb 18, 28, 28
+	rgb 13, 16, 28
 	rgb 22,  8, 19
 
 	rgb 31, 29, 24
-	rgb  18, 28, 28
+	rgb 18, 28, 28
 	rgb 30, 11, 22
 	rgb 22,  8, 19
 
 	rgb 31, 27, 18
 	rgb 15, 25, 31
 	rgb  6, 20, 28
-	rgb  12, 12, 26
+	rgb 12, 12, 26
 
 	rgb 29, 25, 31
-	rgb  18, 28, 28
+	rgb 18, 28, 28
 	rgb 21, 15, 21
 	rgb 22,  8, 19
 
@@ -807,18 +807,18 @@ PsychicClubPal::
 
 	rgb 31, 29, 24
 	rgb 26, 24, 27
-	rgb  17, 15, 24
-	rgb  10,  8, 25
+	rgb 17, 15, 24
+	rgb 10,  8, 25
 
 	rgb 31, 27, 18
 	rgb 28, 24, 15
 	rgb 21, 15, 21
-	rgb  10,  8, 25
+	rgb 10,  8, 25
 
 	rgb 31, 29, 24
 	rgb  6, 20, 28
-	rgb   3, 17, 25
-	rgb  12, 12, 26
+	rgb  3, 17, 25
+	rgb 12, 12, 26
 
 	rgb 31, 27, 18
 	rgb 28, 24, 15
@@ -828,7 +828,7 @@ PsychicClubPal::
 	rgb 31, 27, 18
 	rgb  6, 20, 28
 	rgb 28, 24, 15
-	rgb  12, 12, 26
+	rgb 12, 12, 26
 
 	rgb  0,  0,  0
 	rgb 28,  0,  0
@@ -851,33 +851,33 @@ ScienceClubPal::
 
 	rgb 31, 29, 24
 	rgb 26, 24, 27
-	rgb  17, 15, 24
-	rgb  10,  8, 25
+	rgb 17, 15, 24
+	rgb 10,  8, 25
 
 	rgb 24, 19, 30
 	rgb 21, 16, 27
 	rgb 13, 10, 24
-	rgb  10,  8, 25
+	rgb 10,  8, 25
 
 	rgb 31, 27, 18
-	rgb  18, 28, 28
-	rgb   6, 20, 28
+	rgb 18, 28, 28
+	rgb  6, 20, 28
 	rgb 30, 11, 22
 
 	rgb 31, 29, 24
 	rgb 30, 15, 18
 	rgb 22,  8, 19
-	rgb  10,  8, 25
+	rgb 10,  8, 25
 
 	rgb 31, 29, 24
 	rgb 15, 25, 31
-	rgb   9, 22, 22
-	rgb  10,  8, 25
+	rgb  9, 22, 22
+	rgb 10,  8, 25
 
 	rgb 24, 19, 30
 	rgb  6, 20, 28
-	rgb   3, 17, 25
-	rgb  10,  8, 25
+	rgb  3, 17, 25
+	rgb 10,  8, 25
 
 	rgb 24, 19, 30
 	rgb 21, 16, 27
@@ -895,18 +895,18 @@ FireClubPal::
 
 	rgb 31, 29, 24
 	rgb 26, 24, 27
-	rgb  17, 15, 24
-	rgb  10,  8, 25
+	rgb 17, 15, 24
+	rgb 10,  8, 25
 
 	rgb 29, 27, 29
-	rgb  15, 25, 31
-	rgb   6, 20, 28
-	rgb  10,  8, 25
+	rgb 15, 25, 31
+	rgb  6, 20, 28
+	rgb 10,  8, 25
 
 	rgb 31, 29, 22
 	rgb 31, 25, 17
 	rgb 18, 28, 28
-	rgb  13, 16, 28
+	rgb 13, 16, 28
 
 	rgb 31, 29, 22
 	rgb 31, 25, 17
@@ -939,43 +939,43 @@ ChallengeHallPal::
 
 	rgb 31, 29, 24
 	rgb 26, 24, 27
-	rgb  17, 15, 24
-	rgb  10,  8, 25
+	rgb 17, 15, 24
+	rgb 10,  8, 25
 
 	rgb 31, 29, 24
 	rgb 31, 25, 17
-	rgb   9, 22, 22
-	rgb  13, 16, 28
+	rgb  9, 22, 22
+	rgb 13, 16, 28
 
 	rgb 31, 29, 22
 	rgb 31, 25, 17
 	rgb 21, 15, 21
-	rgb  17, 12, 21
+	rgb 17, 12, 21
 
 	rgb 31, 29, 22
 	rgb 31, 27, 18
 	rgb 20, 15, 29
-	rgb  10,  8, 25
+	rgb 10,  8, 25
 
 	rgb 31, 29, 24
 	rgb 31, 27, 18
 	rgb 30, 11, 22
-	rgb  10,  8, 25
+	rgb 10,  8, 25
 
 	rgb 31, 29, 24
-	rgb  15, 25, 31
-	rgb   9, 22, 22
-	rgb  10,  8, 25
+	rgb 15, 25, 31
+	rgb  9, 22, 22
+	rgb 10,  8, 25
 
 	rgb 31, 29, 24
 	rgb 31, 27, 18
 	rgb 21, 15, 21
-	rgb  10,  8, 25
+	rgb 10,  8, 25
 
 	rgb 31, 29, 22
 	rgb 31, 25, 17
 	rgb 21, 15, 21
-	rgb  17, 12, 21
+	rgb 17, 12, 21
 
 PokemonDomeEntrancePal::
 	db 0
@@ -983,8 +983,8 @@ PokemonDomeEntrancePal::
 
 	rgb 31, 29, 24
 	rgb 26, 24, 27
-	rgb  17, 15, 24
-	rgb  10,  8, 25
+	rgb 17, 15, 24
+	rgb 10,  8, 25
 
 	rgb 31, 27, 18
 	rgb 30, 11, 22
@@ -993,33 +993,33 @@ PokemonDomeEntrancePal::
 
 	rgb 31, 27, 18
 	rgb 30, 11, 22
-	rgb   9, 22, 22
-	rgb  13, 16, 28
+	rgb  9, 22, 22
+	rgb 13, 16, 28
 
 	rgb 31, 27, 18
 	rgb 30, 11, 22
 	rgb 21, 15, 21
-	rgb  17, 12, 21
+	rgb 17, 12, 21
 
 	rgb 31, 29, 24
-	rgb  15, 25, 31
-	rgb   6, 20, 28
-	rgb  10,  8, 25
+	rgb 15, 25, 31
+	rgb  6, 20, 28
+	rgb 10,  8, 25
 
 	rgb 31, 27, 18
 	rgb 21, 15, 21
 	rgb 18, 12, 18
-	rgb  10,  8, 25
+	rgb 10,  8, 25
 
 	rgb 31, 29, 24
 	rgb 31, 27, 18
-	rgb  17, 12, 21
-	rgb  10,  8, 25
+	rgb 17, 12, 21
+	rgb 10,  8, 25
 
 	rgb 31, 29, 24
 	rgb 21, 15, 21
-	rgb  17, 12, 21
-	rgb  10,  8, 25
+	rgb 17, 12, 21
+	rgb 10,  8, 25
 
 PokemonDomePal::
 	db 0
@@ -1027,8 +1027,8 @@ PokemonDomePal::
 
 	rgb 31, 29, 24
 	rgb 26, 24, 27
-	rgb  17, 15, 24
-	rgb  10,  8, 25
+	rgb 17, 15, 24
+	rgb 10,  8, 25
 
 	rgb 31, 27, 18
 	rgb 30, 11, 22
@@ -1037,33 +1037,33 @@ PokemonDomePal::
 
 	rgb 31, 27, 18
 	rgb 30, 11, 22
-	rgb   9, 22, 22
-	rgb  13, 16, 28
+	rgb  9, 22, 22
+	rgb 13, 16, 28
 
 	rgb 31, 27, 18
 	rgb 30, 11, 22
 	rgb 21, 15, 21
-	rgb  17, 12, 21
+	rgb 17, 12, 21
 
 	rgb 31, 27, 18
 	rgb 30, 11, 22
 	rgb  6, 20, 28
-	rgb   3, 17, 25
+	rgb  3, 17, 25
 
 	rgb 31, 29, 24
 	rgb 21, 15, 21
-	rgb   9, 22, 22
-	rgb  13, 16, 28
+	rgb  9, 22, 22
+	rgb 13, 16, 28
 
 	rgb 31, 29, 24
 	rgb 31, 27, 18
 	rgb 30, 11, 22
-	rgb  10,  8, 25
+	rgb 10,  8, 25
 
 	rgb 31, 29, 24
 	rgb 21, 15, 21
-	rgb  17, 12, 21
-	rgb  10,  8, 25
+	rgb 17, 12, 21
+	rgb 10,  8, 25
 
 HallOfHonorPal::
 	db 0
@@ -1071,8 +1071,8 @@ HallOfHonorPal::
 
 	rgb 31, 29, 24
 	rgb 26, 24, 27
-	rgb  17, 15, 24
-	rgb  10,  8, 25
+	rgb 17, 15, 24
+	rgb 10,  8, 25
 
 	rgb 31, 29, 24
 	rgb 30, 11, 22
@@ -1086,13 +1086,13 @@ HallOfHonorPal::
 
 	rgb 31, 29, 24
 	rgb 15, 25, 31
-	rgb   6, 20, 28
-	rgb  12, 12, 26
+	rgb  6, 20, 28
+	rgb 12, 12, 26
 
 	rgb 31, 29, 24
 	rgb 15, 25, 31
 	rgb 31, 27, 18
-	rgb  12, 12, 26
+	rgb 12, 12, 26
 
 	rgb 31, 29, 24
 	rgb 31, 27, 18
@@ -1102,12 +1102,12 @@ HallOfHonorPal::
 	rgb 31, 29, 24
 	rgb 15, 25, 31
 	rgb 30, 11, 22
-	rgb  12, 12, 26
+	rgb 12, 12, 26
 
 	rgb 31, 29, 24
 	rgb 21, 15, 21
-	rgb  17, 12, 21
-	rgb  10,  8, 25
+	rgb 17, 12, 21
+	rgb 10,  8, 25
 
 TitleScreenPal::
 	db 0

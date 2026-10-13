@@ -284,8 +284,8 @@ GBLinkBGPal::
 
 	rgb 31, 29, 24
 	rgb 26, 24, 27
-	rgb  17, 15, 24
-	rgb  10,  8, 25
+	rgb 17, 15, 24
+	rgb 10,  8, 25
 
 	rgb 31, 29, 24
 	rgb 31, 24,  0
@@ -330,8 +330,8 @@ GBPrinterBGPal::
 
 	rgb 31, 29, 24
 	rgb 26, 24, 27
-	rgb  17, 15, 24
-	rgb  10,  8, 25
+	rgb 17, 15, 24
+	rgb 10,  8, 25
 
 	rgb 23, 18, 22
 	rgb 17,  2,  7
@@ -376,8 +376,8 @@ CardPopBGPal::
 
 	rgb 31, 29, 24
 	rgb 26, 24, 27
-	rgb  17, 15, 24
-	rgb  10,  8, 25
+	rgb 17, 15, 24
+	rgb 10,  8, 25
 
 	rgb 31, 29, 24
 	rgb 31, 24,  0
