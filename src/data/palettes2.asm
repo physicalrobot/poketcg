@@ -282,17 +282,17 @@ GBLinkBGPal::
 
 	db 8
 
-	rgb 28, 28, 24
-	rgb 20, 20, 16
-	rgb  8,  8,  8
-	rgb  0,  0,  0
+	rgb 31, 29, 24
+	rgb 26, 24, 27
+	rgb  17, 15, 24
+	rgb  10,  8, 25
 
-	rgb 28, 28, 24
+	rgb 31, 29, 24
 	rgb 31, 24,  0
 	rgb  3,  3,  8
 	rgb  0,  0,  0
 
-	rgb 28, 28, 24
+	rgb 31, 29, 24
 	rgb 25, 14,  0
 	rgb  4,  4, 10
 	rgb  0,  0,  0
@@ -302,12 +302,12 @@ GBLinkBGPal::
 	rgb 31, 13,  0
 	rgb 31, 31,  0
 
-	rgb 28, 28, 24
+	rgb 31, 29, 24
 	rgb 30, 29,  0
 	rgb 31, 13,  0
 	rgb  0,  0,  0
 
-	rgb 28, 28, 24
+	rgb 31, 29, 24
 	rgb 31, 31, 31
 	rgb 29, 16, 16
 	rgb 29,  0,  0
@@ -328,32 +328,32 @@ GBPrinterBGPal::
 
 	db 8
 
-	rgb 28, 28, 24
-	rgb 20, 20, 16
-	rgb  8,  8,  8
-	rgb  0,  0,  0
+	rgb 31, 29, 24
+	rgb 26, 24, 27
+	rgb  17, 15, 24
+	rgb  10,  8, 25
 
 	rgb 23, 18, 22
 	rgb 17,  2,  7
 	rgb  4,  4,  7
 	rgb  0,  0,  0
 
-	rgb 28, 28, 24
+	rgb 31, 29, 24
 	rgb 25, 14,  0
 	rgb  3,  3,  8
 	rgb  0,  0,  0
 
-	rgb 28, 28, 24
+	rgb 31, 29, 24
 	rgb 31, 24,  0
 	rgb  3,  3,  8
 	rgb  0,  0,  0
 
-	rgb 28, 28, 24
+	rgb 31, 29, 24
 	rgb 30, 29,  0
 	rgb 31, 13,  0
 	rgb  0,  0,  0
 
-	rgb 28, 28, 24
+	rgb 31, 29, 24
 	rgb 16, 12, 17
 	rgb  4,  4,  7
 	rgb  0,  0,  0
@@ -363,7 +363,7 @@ GBPrinterBGPal::
 	rgb  4,  4,  7
 	rgb  0,  0,  0
 
-	rgb 28, 28, 24
+	rgb 31, 29, 24
 	rgb 31, 24,  0
 	rgb  3,  3,  8
 	rgb 25, 14,  0
@@ -374,17 +374,17 @@ CardPopBGPal::
 
 	db 8
 
-	rgb 28, 28, 24
-	rgb 20, 20, 16
-	rgb  8,  8,  8
-	rgb  0,  0,  0
+	rgb 31, 29, 24
+	rgb 26, 24, 27
+	rgb  17, 15, 24
+	rgb  10,  8, 25
 
-	rgb 28, 28, 24
+	rgb 31, 29, 24
 	rgb 31, 24,  0
 	rgb  3,  3,  8
 	rgb  0,  0,  0
 
-	rgb 28, 28, 24
+	rgb 31, 29, 24
 	rgb 25, 14,  0
 	rgb  3,  3,  8
 	rgb  0,  0,  0
@@ -394,17 +394,17 @@ CardPopBGPal::
 	rgb 25, 14,  0
 	rgb  0,  0,  0
 
-	rgb 28, 28, 24
+	rgb 31, 29, 24
 	rgb 30, 29,  0
 	rgb 31, 13,  0
 	rgb  0,  0,  0
 
-	rgb 28, 28, 24
+	rgb 31, 29, 24
 	rgb 31, 24,  0
 	rgb 25, 14,  0
 	rgb  0,  0,  0
 
-	rgb 28, 28, 24
+	rgb 31, 29, 24
 	rgb 31, 27,  0
 	rgb 31,  0,  0
 	rgb  0,  0,  0
