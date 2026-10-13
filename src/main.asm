@@ -119,6 +119,7 @@ INCLUDE "engine/unused_save_validation.asm"
 
 SECTION "Input Name", ROMX
 INCLUDE "engine/input_name.asm"
+INCLUDE "engine/halfwidth_name.asm"
 
 SECTION "Auto Deck Machines", ROMX
 INCLUDE "engine/auto_deck_machines.asm"

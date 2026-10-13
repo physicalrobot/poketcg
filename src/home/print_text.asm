@@ -339,7 +339,9 @@ ProcessTextHeader::
 .tx_ram1
 	call WriteToTextHeader_MoveToNext
 	call CopyPlayerNameOrTurnDuelistName
-	ld a, [wStringBuffer]
+	farcall ConvertNameToHalfWidth
+	ld hl, wStringBuffer
+	ld a, [hl]
 	cp TX_HALFWIDTH
 	jr z, .tx_halfwidth
 	ld a, TX_HALF2FULL
